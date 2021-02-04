@@ -17,16 +17,16 @@ export default {
         color: "#0170ba",
       },
       {
-        name: "sass",
-        label: "Sass",
-        value: 40,
+        name: "scss",
+        label: "SCSS",
+        value: 90,
         url: "https://sass-lang.com/",
         color: "#cd6799",
       },
       {
         name: "bootstrap",
         label: "Bootstrap",
-        value: 80,
+        value: 90,
         url: "https://getbootstrap.com/",
         color: "#563d7c",
       },
@@ -40,7 +40,7 @@ export default {
       {
         name: "vuejs",
         label: "VueJS",
-        value: 75,
+        value: 80,
         url: "https://vuejs.org/",
         color: "#41b883",
       },
@@ -66,21 +66,21 @@ export default {
       {
         name: "php",
         label: "Php",
-        value: 70,
+        value: 95,
         url: "https://www.php.net/manual/en/index.php",
         color: "#8555bc",
       },
       {
         name: "csharp",
         label: "C#",
-        value: 20,
+        value: 80,
         url: "https://docs.microsoft.com/en-us/dotnet/csharp/",
         color: "#0b9e0b",
       },
       {
         name: "java",
         label: "Java",
-        value: 20,
+        value: 70,
         url:
           "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html",
         color: "#5382a1",
@@ -100,7 +100,7 @@ export default {
       {
         name: "vs",
         label: "MS Visual Studio",
-        value: 60,
+        value: 75,
         url: "https://visualstudio.microsoft.com/",
         color: "#8555bc",
       },
@@ -114,7 +114,7 @@ export default {
       {
         name: "photoshop",
         label: "Photoshop",
-        value: 50,
+        value: 65,
         url: "https://www.adobe.com/sea/products/photoshop.html",
         color: "#08004a",
       },

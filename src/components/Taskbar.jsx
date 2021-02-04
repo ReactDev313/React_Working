@@ -35,7 +35,7 @@ function Taskbar({ theme, setTheme }) {
             <label>{pages[path].title}</label>
           </div>
         )}
-        <div className="item right">Copyright &copy; 2020 Vladislav</div>
+        <div className="item right">Copyright &copy; 2020 Cristiian</div>
       </div>
     </>
   );

@@ -11,7 +11,7 @@ import * as storage from "local-storage";
 const mouseOver = ({ target }) => (target.src = Social[target.alt][1]);
 const mouseOut = ({ target }) => (target.src = Social[target.alt][0]);
 const SocialLinks = {
-  Github: "https://github.com/Acoder-Ana"
+  Github: "",
 };
 const storeKey = {
   theme: "theme",

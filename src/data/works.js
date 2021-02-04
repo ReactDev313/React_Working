@@ -11,11 +11,12 @@ export default {
       remark: `After Bosch, I started my Freelancer carrer and it is giving me pleasure`,
       activities: [
         "Develop front-end projects using React Framework",
-        "Building websites using MEAN, MERN, MEVN stack", 
+        "Building websites using Wordpress, Laravel, ASP .Net Core, MEAN, MERN, MEVN stack",
         "Troubleshooting and Refactoring existing projects",
         "Frameworks used : React, Angular, Vue, Express",
       ],
-      techs: "HTML, Bootstrap, JS, TS, SQL, NoSQL",
+      techs:
+        "HTML, CSS/SASS/SCSS/LESS, D3.js, Bootstrap, JS, ES6, TS, PHP, SQL, NoSQL",
     },
     {
       title: "Bosch",
@@ -63,10 +64,7 @@ export default {
         "Techs used: React, Saga, Material UI, Express, Socket.io",
       ],
       links: {
-        $1: [
-          "Pela Case",
-          "https://pelacase.com/",
-        ],
+        $1: ["Pela Case", "https://pelacase.com/"],
       },
     },
     {
@@ -122,16 +120,14 @@ export default {
       my own React Admin Dashboard theme using React and Material UI.
       It is still in progress but if you are interested, feel free to check it on $2.
       `,
-      techs: "HTML, CSS, JS, ReactJS, React Router, Apollo GraphQL, MediaWiki API",
+      techs:
+        "HTML, CSS, JS, ReactJS, React Router, Apollo GraphQL, MediaWiki API",
       links: {
         $1: [
           "MediaWiki API",
           "https://doc.wikimedia.org/mediawiki-core/master/js/#!/api/mw.Api",
         ],
-        $2: [
-          "Github",
-          "https://github.com/Acoder-Ana",
-        ],
+        $2: ["Github", ""],
       },
     },
   ],

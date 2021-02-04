@@ -1,5 +1,6 @@
 export default {
-  headline: "PHP | WordPress | Laravel | JavaScript | React | Vue.js Solution Provider",
+  headline:
+    "PHP | WordPress | Laravel | JavaScript | React | Vue.js | ASP .Net Solution Provider",
   intro: `I'm a veteran web engineer who knows what he is doing.
   Once you have a contract with me, you might don't need to seek another developer.
 I am different from other freelancers who only know code.
@@ -20,10 +21,11 @@ As a diligent and fast learner, I really love to study new trend technologies in
     "Three words to describe my goal: Family, friends and Enjoy",
   ],
   trivias: [
-    "Backend: PHP, WordPress, Laravel, Node.js",
-    "Frontend: Vue, React, Angular"
+    "Backend: PHP, WordPress, Laravel, Node.js, ASP .Net Core, GraphQL",
+    "Frontend: Vue, React/Next.js/GatsBy, Angular",
+    "DataBase: MySql, MongoDB, CosmosDB",
   ],
   links: {
-    $1: ["AcodeWizard", "https://github.com/Acoder-Ana"]
+    $1: ["ReactDev", ""],
   },
 };
